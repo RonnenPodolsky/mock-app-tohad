@@ -1,0 +1,5 @@
+CLIENT_NAME = "Tohad"
+CLIENT_ENV = "production"
+CLIENT_THEME_COLOR = "#0B5394"
+CLIENT_SUPPORT_EMAIL = "support@tohad.example"
+CLIENT_DATA_REGION = "il-central-1"
